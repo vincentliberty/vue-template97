@@ -1,1 +1,1 @@
-console.log('tea', tea)
+console.log(process.env);
